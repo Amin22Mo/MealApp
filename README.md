@@ -1,2 +1,1 @@
-# MealApp
-Meal app using html, css &amp; javascript
+# MealApp.github.io
